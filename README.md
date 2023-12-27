@@ -12,7 +12,4 @@
 
 The game is open source and free to modify and do whatever you want to do with it 
 
-<h1>Screenshots from the Game</h1>
-![image](https://github.com/ZrunchoKroki/Jumping-Game/assets/154995610/45b5b8e3-7d73-4394-a5c0-f2e48d628010)
-
 
